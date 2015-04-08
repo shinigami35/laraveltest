@@ -1,18 +1,12 @@
 {
     "name": "shini/laravel-storedprocedures",
-    "description": "",
-    "authors": [
-        {
-            "name": "Mathieu Savy",
-            "email": "mathieu.savy@gmail.com"
-        }
-    ],
+    "description": "test",
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.x",
+		"illuminate/support": "5.x",
         "twig/twig": ">=1.6"
     },
-    "autoload": {
+	"autoload": {
         "classmap": [
             "src/Mrblackus/LaravelStoredprocedures/generator"
         ],
@@ -20,5 +14,10 @@
             "Mrblackus\\LaravelStoredprocedures\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "authors": [
+        {
+            "name": "Mathieu Savy",
+            "email": "mathieu.savy@gmail.com"
+        }
+    ]
 }
