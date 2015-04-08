@@ -10,7 +10,7 @@
         "classmap": [
             "src/Mrblackus/LaravelStoredprocedures/generator"
         ],
-        "psr-4": {
+        "psr-0": {
             "Mrblackus\\LaravelStoredprocedures\\": "src/"
         }
     },
